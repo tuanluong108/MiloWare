@@ -1,4 +1,7 @@
 # Script-Ware
+
+## PEOPLE ARE OPENING ISSUES ASKING IF THIS IS THE NEW SCRIPT-WARE V2, IT IS NOT. THIS IS -> https://script-ware.com/ <- 
+
 This is script-ware's full script execution source, this works if you update the proto struct and addresses, i've included elysians call encryption and eternals shit non-functional trash for the enc (which you could try to fix, however i couldnt and neither could he)
 
 if you update proto struct and addresses, you're able to call closures because op_call's encryption was not changed and this has it updated.
